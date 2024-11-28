@@ -1,0 +1,7 @@
+Dinosaur Name and Favorite Foods
+===============================
+Rex: Meat
+Brachiosaurus: Leaves
+Velociraptor: Small mammals
+Stegosaurus: Ferns
+Triceratops: Fruits

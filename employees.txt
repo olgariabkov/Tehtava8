@@ -1,0 +1,3 @@
+John Doe;30;Manager;4500.0;Administration
+Jane Smith;25;Developer;3500.0;IT
+Bob Brown;40;Janitor;3000.0;Maintenance
